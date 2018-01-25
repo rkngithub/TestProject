@@ -1,3 +1,4 @@
+package mypackage.a;
 
 public class Test {
 	
